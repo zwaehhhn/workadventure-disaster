@@ -3902,6 +3902,32 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":17,
+         "firstgid":3908,
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":544,
+         "imagewidth":544,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":289,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":17,
+         "firstgid":4197,
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":544,
+         "imagewidth":544,
+         "margin":0,
+         "name":"office_1",
+         "spacing":0,
+         "tilecount":289,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
