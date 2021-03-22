@@ -3889,6 +3889,19 @@
         {
          "firstgid":3588,
          "source":"flooetileset2.tsx"
+        }, 
+        {
+         "columns":16,
+         "firstgid":3652,
+         "image":"kitchen.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"kitchen",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
