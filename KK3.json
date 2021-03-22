@@ -3873,8 +3873,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":3299,
-         "source":"flooetileset2.tsx"
+         "image":"floortileset2.png",
+         "imageheight":272,
+         "imagewidth":272,
+         "margin":1,
+         "name":"floortileset2",
+         "spacing":2,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":3363,
+         "image":"floortileset2.png",
+         "imageheight":272,
+         "imagewidth":272,
+         "margin":1,
+         "name":"floortileset2",
+         "spacing":2,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
