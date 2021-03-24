@@ -326,6 +326,32 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":151,
+         "firstgid":2565,
+         "image":"Harburg1.png",
+         "imageheight":3428,
+         "imagewidth":4850,
+         "margin":0,
+         "name":"Harburg1",
+         "spacing":0,
+         "tilecount":16157,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":151,
+         "firstgid":18722,
+         "image":"Harburg2.png",
+         "imageheight":3428,
+         "imagewidth":4850,
+         "margin":0,
+         "name":"Harburg2",
+         "spacing":0,
+         "tilecount":16157,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
