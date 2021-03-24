@@ -37,7 +37,19 @@
          "draworder":"topdown",
          "id":6,
          "name":"Floor",
-         "objects":[],
+         "objects":[
+                {
+                 "gid":302,
+                 "height":32,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":162,
+                 "y":770
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -69,7 +81,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
